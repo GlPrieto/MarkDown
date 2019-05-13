@@ -40,8 +40,6 @@ Combined emphasis with asterisks and underscores.
 Strikethrough uses two tildes. Scratch this.
 Lists
 
-(In this example, leading and trailing spaces are shown with with dots: ⋅)
-
 1. First ordered list item
 2. Another item
 ..* Unordered sub-list. 
@@ -49,7 +47,6 @@ Lists
 ..1. Ordered sub-list
 4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
@@ -83,8 +80,6 @@ Lists
     Or pluses
 
 Links
-
-There are two ways to create links.
 
 [I'm an inline-style link](https://www.google.com)
 
